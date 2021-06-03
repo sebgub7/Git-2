@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sebgub7/Git-2/issues"
   },
-  "homepage": "https://github.com/sebgub7/Git-2#readme"
+  "homepage": "https://github.com/sebgub7/Git-2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14"
+  }
 }
